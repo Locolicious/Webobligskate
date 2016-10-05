@@ -1,0 +1,22 @@
+<?xml version="1.0"	encoding="UTF-8"	?>
+<rss version="2.0">
+    
+<channel>
+    <title>Element</title>
+    <link>http://www.elementbrand.com</link>
+    <description>Element boards and gadets.</description>
+    <language>no</language>
+    <pubDate>Mon,	03	Oct	2016	12:00:00	GMT</pubDate>	
+    <lastBuildDate>Mon,	03	Oct	2016	15:49:13	GMT</lastBuildDate>	
+        <item>
+        <title>Girl</title>
+        <link>http://www.girlskateboards.com</link>
+        <description>Girl boards and gadets.</description>
+        </item>
+        <item>
+        <title>Plan-B</title>
+        <link>http://www.planbskateboards.com</link>
+        <description>Plan-B boards and gadets.</description>
+    </item>
+</channel>
+</rss>
