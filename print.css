@@ -1,0 +1,21 @@
+body {
+	margin:0;
+	padding:0;
+	color:#000;
+	letter-spacing: 1px;
+	
+}
+
+#video, #rss {display:none;}
+
+header {
+	font-size:40px;
+}
+
+a {
+	color:black;
+}
+
+img {
+	filter:grayscale(100%);
+}
