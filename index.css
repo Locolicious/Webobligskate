@@ -6,6 +6,12 @@
         
     }
     
+    iframe{
+        visibility: hidden;
+        width: 0px;;
+        height: 0px;
+    }
+    
     nav ul{
        list-style-type: none;
         padding: 0; 
@@ -273,7 +279,7 @@
     nav ul ul {
         display: none;
         position: absolute;
-        background-color: rgba(142, 142, 142, 0.38);
+        background-color: rgba(5, 0, 0, 0.56);
         min-width: 10px;
         border-bottom: 2px solid #f30000;
     }
@@ -282,7 +288,7 @@
     }
 
     nav ul ul li a,visited {
-        color: black;
+        color: white;
         font-size: 17px;
     }
     nav ul ul li a:hover {
@@ -316,6 +322,12 @@
         text-align: center;
         color: #f30000;
         
+    }
+    
+    iframe{
+        width: 98%;
+        margin: auto;
+        height: 300px;
     }
 }
 
