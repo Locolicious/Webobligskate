@@ -1,6 +1,6 @@
 
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 789px){
     
     iframe{
         visibility: hidden;
@@ -174,9 +174,7 @@
     .mainhead{
         text-align: center;
         font-size: 30px;
-         background: linear-gradient(to right, red , blue);
-		 border-radius: 10px;
-		 color: white;
+        color: #f30000;
     }
     
     .sectionhead{
@@ -285,6 +283,7 @@
 
     section{
     border-bottom: solid red;
+	
     }
     
 #toptext{
@@ -292,4 +291,6 @@
     text-align: center;
 }
 
-   
+
+
+    
