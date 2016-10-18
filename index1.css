@@ -174,7 +174,9 @@
     .mainhead{
         text-align: center;
         font-size: 30px;
-        color: #f30000;
+         background: linear-gradient(to right, red , blue);
+		 border-radius: 10px;
+		 color: white;
     }
     
     .sectionhead{
