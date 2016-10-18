@@ -290,5 +290,11 @@
     text-align: center;
 }
 
-    
+    .mainhead{
+        text-align: center;
+        font-size: 30px;
+         background: linear-gradient(to right, red , blue);
+		 border-radius: 10px;
+		 color: white;
+    }
 
